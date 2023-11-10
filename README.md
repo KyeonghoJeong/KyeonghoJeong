@@ -1,17 +1,14 @@
-### Hi there 👋
+About Me
+--------
+안녕하세요. 책임감과 향상심을 가지고 앞으로 나아가는 웹 개발자 정경호입니다.
 
-<!--
-**KyeonghoJeong/KyeonghoJeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Project
+--------
+01. 반려동물 동반 가능 시설을 쉽게 찾을 수 있는 웹사이트 포맵
+02. 번호판 인식을 통한 장애인 주차구역 관리 시스템
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-안녕하세요. 향상심과 책임감을 가지고 맡은 바 최선을 다하는 웹 개발자 정경호입니다.
+Tech Skill
+--------
+HTML, CSS, JavaScript, Vue, Bootstrap
+Java, Spring Boot, MySQL, Oracle
+Git, Github
