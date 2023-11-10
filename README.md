@@ -9,13 +9,13 @@
 
 <h1>Tech Skills</h1>
 
-- Front-end
-
-> HTML, CSS, JavaScript, Vue, Bootstrap
-
 - Back-end
   
 > Java, Spring Boot, MySQL, Oracle
+
+- Front-end
+
+> HTML, CSS, JavaScript, Vue, Bootstrap
 
 - Version Control
   
