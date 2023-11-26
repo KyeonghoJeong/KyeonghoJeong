@@ -13,10 +13,10 @@
   
     Java, Spring Boot, MySQL, Oracle
 
-- Front-end
+- #### Front-end
 
     HTML, CSS, JavaScript, Vue, Bootstrap
 
-- Version Control
+- ### Version Control
   
     Git, Github
