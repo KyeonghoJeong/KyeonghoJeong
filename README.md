@@ -9,7 +9,7 @@
 
 <h1>Tech Skills</h1>
 
-- Back-end
+- #### Back-end
   
     Java, Spring Boot, MySQL, Oracle
 
