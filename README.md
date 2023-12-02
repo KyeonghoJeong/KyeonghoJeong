@@ -11,7 +11,7 @@
 
 - #### Back-end
   
-    Java, Spring Boot, MySQL, Oracle
+    Java, Spring Boot, Spring Security, JPA, MySQL, Oracle, Gradle
 
 - #### Front-end
 
