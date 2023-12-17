@@ -15,7 +15,7 @@
 
 - #### Front-end
 
-    HTML, CSS, JavaScript, Vue, Bootstrap
+    HTML, CSS, JavaScript, Vue.js, Bootstrap
 
 - #### Version Control
   
