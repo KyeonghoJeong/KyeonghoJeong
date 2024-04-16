@@ -19,4 +19,4 @@
 
 - #### Version Control
   
-    Git, Github
+    Git, GitHub
